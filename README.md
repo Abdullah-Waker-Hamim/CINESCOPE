@@ -53,4 +53,4 @@ cinescope/
 
 This product uses the TMDB API but is not endorsed or certified by TMDB.
 
-Name: _your name_ · ID: _your ID_
+Name: Abdullah Waker · ID:C253132
